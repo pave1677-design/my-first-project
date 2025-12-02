@@ -15,5 +15,5 @@ for i in range(3):
     pay.append(price*quantity)
 print(receipt)
 # сборка и вывод диаграм
-diagram.bar(product, pay, color-'green')
+diagram.bar(products, pay, color='green')
 diagram.show()
