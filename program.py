@@ -14,5 +14,6 @@ for i in range(3):
     products.append(product)
     pay.append(price*quantity)
 print(receipt)
+# сборка и вывод диаграм
 diagram.plot(products.pay)
 diagram.show()
